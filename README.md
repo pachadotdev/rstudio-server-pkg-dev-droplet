@@ -1,0 +1,1 @@
+# rstudio-server-pkg-dev-workshop-droplet
